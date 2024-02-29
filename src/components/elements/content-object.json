@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_elements_content_objects",
+  "info": {
+    "displayName": "contentObject",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "JSON": {
+      "type": "json"
+    }
+  }
+}

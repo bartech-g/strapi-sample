@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tariff_collections",
+  "info": {
+    "singularName": "tariff-collection",
+    "pluralName": "tariff-collections",
+    "displayName": "TariffCollection"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "CollectionName": {
+      "type": "string"
+    }
+  }
+}

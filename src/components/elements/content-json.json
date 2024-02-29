@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_elements_content_jsons",
+  "info": {
+    "displayName": "contentJSON",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "JSONID": {
+      "type": "string"
+    },
+    "Content": {
+      "type": "json"
+    }
+  }
+}

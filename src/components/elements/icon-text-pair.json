@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_elements_icon_text_pairs",
+  "info": {
+    "displayName": "iconTextPair"
+  },
+  "options": {},
+  "attributes": {
+    "Icon": {
+      "type": "string"
+    },
+    "Text": {
+      "type": "blocks"
+    }
+  }
+}

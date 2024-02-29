@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "tariff_cards",
+  "info": {
+    "singularName": "tariff-card",
+    "pluralName": "tariff-cards",
+    "displayName": "TariffCard"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    }
+  }
+}

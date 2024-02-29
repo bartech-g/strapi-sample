@@ -1,0 +1,32 @@
+{
+  "kind": "collectionType",
+  "collectionName": "services",
+  "info": {
+    "singularName": "service",
+    "pluralName": "services",
+    "displayName": "Service",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "string"
+    },
+    "iconTextPairs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "elements.icon-text-pair"
+    },
+    "contentJSON": {
+      "type": "component",
+      "repeatable": false,
+      "component": "elements.content-json"
+    }
+  }
+}
